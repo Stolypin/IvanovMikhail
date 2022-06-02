@@ -1,4 +1,4 @@
-## Иванов Михаил
+
 
 ![image](https://user-images.githubusercontent.com/50025052/171752568-3d28a503-9ddc-45e5-b263-0e1ddc8ebb86.png)
 
