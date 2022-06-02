@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Иванов Михаил
 
-You can use the [editor on GitHub](https://github.com/Stolypin/stolypin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Как вы уже поняли, зовут меня Михаил. Специалист по всем вопросам, готов обкашлять ваши вопросики. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Закончил бакалавриат и магистратуру по направлению "Менеджмент". Также, во время получения магистратуры, работал в "Уральском банке реконструкции и развития" на должности менеджер управления сервисного обслуживания в течение двух лет. А если конекретней, то занимался там помощью физическим и юридическим лицам по любым вопросам.
+Умею, могу и практикую в поиск информации, самый уверенный пользователь ПК на районе. Немного умею монтировать видеоролики в программе Sony Vegas 12, чуть разбираюсь в Photoshop. Как-то по приколу написал своего бота для Discord, даже пробовал в 3D моделирование на движке Unity.  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Михаил
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stolypin/stolypin/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Помимо дипломов о высшем образование, есть права категории B, военный билет, мед.книжка и трудовая - полный боекомплект документов. 
